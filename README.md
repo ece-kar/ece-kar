@@ -14,15 +14,6 @@ Researcher in **Vehicular Networks (VANET) Security & Applied AI**
 
 ---
 
-## 🔬 Research & Key Focus Areas
-
-[VANET Security & IDS](https://custom-icon-badges.demolab.com/badge/VANET_Security-Intrusion_Detection_Systems-0d1117?style=flat-square&logo=shield-check&logoColor=58a6ff&labelColor=161b22)<br>
-[Deep Learning for Cyber Defense](https://custom-icon-badges.demolab.com/badge/Deep_Learning-Attack_Detection_%26_Mitigation-0d1117?style=flat-square&logo=cpu&logoColor=58a6ff&labelColor=161b22)<br>
-[V2X & IoV Communication](https://custom-icon-badges.demolab.com/badge/V2X_%26_IoV-Trust_Management_%26_Privacy-0d1117?style=flat-square&logo=lock&logoColor=58a6ff&labelColor=161b22)<br>
-[Vehicular Traffic Simulation](https://custom-icon-badges.demolab.com/badge/Simulation-SUMO_%26_NS--3_%2F_OMNeT%2B%2B-0d1117?style=flat-square&logo=terminal&logoColor=58a6ff&labelColor=161b22)
-
----
-
 ## 🛠️ Technical Expertise & Tools
 
 <div align="center">
